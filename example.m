@@ -16,7 +16,7 @@ load('coefficient.mat');
 % 19-24 model coefficients of ZHD lapse rate
 % 25-30 model coefficients of ZWD lapse rate
 % 31-36 model coefficients of Tm lapse rate
-% 37    height of reference level unit: km
+% 37    height of grid point unit: km
 
 % -------------------------------------------------------
 
