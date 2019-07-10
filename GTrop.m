@@ -31,7 +31,7 @@ L = lon;
 
 % The case where the GNSS receiver is at the grid point
 
-if B1==B2&&L1==L2
+if B1==B2&L1==L2
     
     i            = B1 + 91;
     j            = L1 + 181;
